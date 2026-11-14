@@ -10,3 +10,6 @@
 [submodule "Sql_Db"]
 	path = Sql_Db
 	url = https://github.com/nitinkc/Sql_Db.git
+[submodule "db-QueryOptimization"]
+	path = db-QueryOptimization
+	url = https://github.com/nitinkc/db-QueryOptimization.git
