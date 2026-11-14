@@ -1,0 +1,6 @@
+[submodule "MongoDBLeaning"]
+	path = MongoDBLeaning
+	url = https://github.com/nitinkc/MongoDBLeaning.git
+[submodule "CassandraLearning"]
+	path = CassandraLearning
+	url = https://github.com/nitinkc/CassandraLearning.git
