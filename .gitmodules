@@ -7,3 +7,9 @@
 [submodule "db-sharding"]
 	path = db-sharding
 	url = https://github.com/nitinkc/db-sharding.git
+[submodule "Sql_Db"]
+	path = Sql_Db
+	url = https://github.com/nitinkc/Sql_Db.git
+[submodule "SQL-QueryOptimization-tutorials"]
+	path = SQL-QueryOptimization-tutorials
+	url = https://github.com/nitinkc/SQL-QueryOptimization-tutorials.git
