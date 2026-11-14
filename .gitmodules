@@ -4,3 +4,6 @@
 [submodule "CassandraLearning"]
 	path = CassandraLearning
 	url = https://github.com/nitinkc/CassandraLearning.git
+[submodule "db-sharding"]
+	path = db-sharding
+	url = https://github.com/nitinkc/db-sharding.git
