@@ -13,3 +13,6 @@
 [submodule "db-QueryOptimization"]
 	path = db-QueryOptimization
 	url = https://github.com/nitinkc/db-QueryOptimization.git
+[submodule "database-theory"]
+	path = database-theory
+	url = https://github.com/nitinkc/database-theory.git
